@@ -1,0 +1,3 @@
+pip install jupyter_contrib_nbextensions
+操作安装成功后，
+输入:jupyter contrib nbextension install --user 进行用户配置。
