@@ -1,0 +1,4 @@
+批量安装python库的方法：
+安装python，进入needed文件所在的目录
+打开cmd窗口，执行命令：python -m pip install --upgrade pip
+成功后执行： pip install -r needed.txt 
