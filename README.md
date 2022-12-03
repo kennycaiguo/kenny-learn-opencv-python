@@ -8,7 +8,7 @@
 # <a href="https://github.com/LeBron-Jian/ComputerVisionPractice">opencv练习的代码与图片</a>
 # <a href="https://blog.csdn.net/youcans/article/details/124576698">【youcans 的 OpenCV 例程200篇】173.SEEDS 超像素区域分割</a>
 # <a href="https://github.com/wuxh123/my_opencv_examples">OpenCV+Qt编程</a>
-# <a href=""></a>
+# <a href="https://github.com/bashendixie/ml_toolset">机器学习案例集</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
