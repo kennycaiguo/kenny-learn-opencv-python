@@ -7,7 +7,7 @@
 # <a href="https://github.com/1zlab/1ZLAB_Color_Block_Finder">使用OpenCV实现色块追踪 为了方便大家入门OpenCV</a>
 # <a href="https://github.com/LeBron-Jian/ComputerVisionPractice">opencv练习的代码与图片</a>
 # <a href="https://blog.csdn.net/youcans/article/details/124576698">【youcans 的 OpenCV 例程200篇】173.SEEDS 超像素区域分割</a>
-# <a href="https://github.com/wuxh123/my_opencv_examples">OpenCV+Qt编程/a>
+# <a href="https://github.com/wuxh123/my_opencv_examples">OpenCV+Qt编程</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
