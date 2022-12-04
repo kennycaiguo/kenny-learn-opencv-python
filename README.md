@@ -9,9 +9,9 @@
 # <a href="https://blog.csdn.net/youcans/article/details/124576698">【youcans 的 OpenCV 例程200篇】173.SEEDS 超像素区域分割</a>
 # <a href="https://github.com/wuxh123/my_opencv_examples">OpenCV+Qt编程</a>
 # <a href="https://github.com/bashendixie/ml_toolset">机器学习案例集</a>
-# <a href=""></a>
-# <a href=""></a>
-# <a href=""></a>
+# <a href="https://github.com/BUPTLdy/human-detector">Human Detection using HOG-Linear SVM in Python</a>
+# <a href="https://github.com/CHNicelee/HOG_SVM">使用HOG+SVM进行图像分类</a>
+# <a href="https://github.com/bikz05/object-detector">Object Detection Framework using HOG as descriptor and Linear SVM as classifier.</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
