@@ -12,7 +12,7 @@
 # <a href="https://github.com/BUPTLdy/human-detector">Human Detection using HOG-Linear SVM in Python</a>
 # <a href="https://github.com/CHNicelee/HOG_SVM">使用HOG+SVM进行图像分类</a>
 # <a href="https://github.com/bikz05/object-detector">Object Detection Framework using HOG as descriptor and Linear SVM as classifier.</a>
-# <a href=""></a>
+# <a href="https://github.com/makelove/OpenCV-Python-Tutorial">OpenCV教程</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
