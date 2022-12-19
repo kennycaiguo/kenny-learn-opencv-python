@@ -13,7 +13,7 @@
 # <a href="https://github.com/CHNicelee/HOG_SVM">使用HOG+SVM进行图像分类</a>
 # <a href="https://github.com/bikz05/object-detector">Object Detection Framework using HOG as descriptor and Linear SVM as classifier.</a>
 # <a href="https://github.com/makelove/OpenCV-Python-Tutorial">OpenCV教程</a>
-# <a href=""></a>
+# <a href="https://github.com/zhongqiangwu960812/OpenCVLearning">OpenCV或者数字图像处理的小项目</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
