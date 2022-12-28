@@ -15,7 +15,7 @@
 # <a href="https://github.com/makelove/OpenCV-Python-Tutorial">OpenCV教程</a>
 # <a href="https://github.com/zhongqiangwu960812/OpenCVLearning">OpenCV或者数字图像处理的小项目</a>
 # <a href="https://github.com/shekkizh/ImageProcessingProjects">Image processing using python and opencv</a>
-# <a href="https://github.com/tinyzqh/Opencv-Computer-Vision-Practice-Python-">Opencv 计算机视觉实战</a>
+# <a href="https://github.com/tinyzqh/Opencv-Computer-Vision-Practice-Python-">Opencv 计算机视觉实战——项目实战，少了car1.h5</a>
 # <a href="https://github.com/ishanExtreme/RealTimeParkingSystem/blob/master/car1.7z">下载car1.h5</a>
 # <a href=""></a>
 # <a href=""></a>
