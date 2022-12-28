@@ -15,7 +15,7 @@
 # <a href="https://github.com/makelove/OpenCV-Python-Tutorial">OpenCV教程</a>
 # <a href="https://github.com/zhongqiangwu960812/OpenCVLearning">OpenCV或者数字图像处理的小项目</a>
 # <a href="https://github.com/shekkizh/ImageProcessingProjects">Image processing using python and opencv</a>
-# <a href=""></a>
+# <a href="https://github.com/tinyzqh/Opencv-Computer-Vision-Practice-Python-">Opencv 计算机视觉实战</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
